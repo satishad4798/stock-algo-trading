@@ -1,12 +1,23 @@
-# stock-algo-trading
- - fetch stock who earning is in upcoming days and check if any bulk order on those stocks.
- - will filter and show possible railing stocks.
 
+# Stock Algo Trading
+- Bulk deals on stocks with earnings due this week
 
-# pre request
-- python and basic pip utils
-- selenium
-- chrome-driver
+## Prerequisites
+- Python and basic pip utilities
+- Selenium
+- ChromeDriver
 
-# how to run
-- execute start.ipynb
+## How to Run
+- Execute `start.ipynb`
+
+## Sample Results
+
+### Bulk Deal by Client This Week (considering both buy and sell transactions)
+![Bulk Deal by Client](image.png)
+
+### Bulk Deal This Week
+![Bulk Deal This Week](image-1.png)
+
+### Summary
+![Summary](image-2.png)
+
