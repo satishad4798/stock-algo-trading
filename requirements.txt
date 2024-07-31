@@ -1,0 +1,4 @@
+babel
+selenium
+webdriver_manager
+pandas

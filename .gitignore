@@ -1,1 +1,5 @@
 .DS_Store
+stockAlgo/*
+final stocks.csv
+client level.csv
+bulk_deals_with_upcoming.csv
